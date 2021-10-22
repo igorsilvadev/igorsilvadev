@@ -1,0 +1,23 @@
+
+
+body { 
+    background-color: rgb(28, 91, 146);
+}
+
+.center { 
+    padding-left: 45%;
+    padding-top: 20%;
+}
+
+button { 
+    background-color: black;
+    color: white;
+    width: 4rem;
+    height: 4rem;
+    font-size: xx-large;
+    border-radius: 20px;
+}
+
+.operador { 
+    background-color: orange;
+}
