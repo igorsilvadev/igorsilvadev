@@ -9,5 +9,3 @@ I'm a Computer Science student at Catholic University of Brasilia and iOS develo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvadev&layout=compact&show_icons=true)
 
-
-![Igor Silva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igorsilvadev)
