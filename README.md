@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science student at Catholic University of Brasilia and iOS developer at Developer Academy/UCB.
+I'm a Computer Science student at Catholic University of Brasilia, iOS developer at Developer Academy/UCB, and iOS developer at Dimensa.
 
 
 ![Igor Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorsilvadev&show_icons=true&theme=dracula&count_private=true)
