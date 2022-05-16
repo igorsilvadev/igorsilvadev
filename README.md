@@ -7,5 +7,5 @@ I'm a Computer Science student at Catholic University of Brasilia, iOS developer
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvadev&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvadev&layout=compact&show_icons=true&hide=javascript,html,css,dockerfile)
 
