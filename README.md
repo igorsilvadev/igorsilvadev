@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science student at Catholic University of Brasilia, iOS developer at [Developer Academy/UCB](https://developeracademyucb.com.br/), and iOS developer at [Dimensa](https://dimensa.com/).
+I'm a Computer Science student at Catholic University of Brasilia, iOS developer at [Developer Academy/UCB](https://developeracademyucb.com.br/), and iOS developer at [Checklist Fácil by Softplan ](https://www.checklistfacil.com/).
 
 I work with the UIKit, SwiftUI, SpriteKit, CoreData and RxSwift frameworks. 
 I often use SnapKit and Alamofire for most of my projects. 
