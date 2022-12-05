@@ -13,5 +13,5 @@ I build screens using view code and am a fan of protocol oriented programming.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvadev&layout=compact&show_icons=true&hide=javascript,html,css,dockerfile,php,procfile,ruby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvadev&layout=compact&show_icons=true)
 
