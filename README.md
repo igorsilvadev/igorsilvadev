@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Computer Science student at Catholic University of Brasilia, iOS developer at [Developer Academy/UCB](https://developeracademyucb.com.br/), and iOS developer at [Checklist Fácil by Softplan ](https://www.checklistfacil.com/).
+I'm a Computer Science student at Catholic University of Brasilia, and iOS developer at [Checklist Fácil by Softplan ](https://www.checklistfacil.com/).
 
-I work with the UIKit, SwiftUI, SpriteKit, CoreData and RxSwift frameworks. 
+I work with the UIKit, SwiftUI, SpriteKit, CoreData, Combine, Realm and RxSwift frameworks. 
 I often use SnapKit and Alamofire for most of my projects. 
 I build screens using view code and am a fan of protocol oriented programming. 
  Currently I am dedicated to studying XCTest and Continuous Integration, Continuous Delivery and Continuous Deployment.
