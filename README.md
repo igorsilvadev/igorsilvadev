@@ -10,7 +10,6 @@ I build screens using view code and am a fan of protocol oriented programming.
 My [ Resume ](https://docs.google.com/document/d/1MyLUeDH5EnTh38ayuyZiTuQVjBln8RCD)
 
 ![Igor Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorsilvadev&show_icons=true&theme=dracula&count_private=true)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorsilvadev" alt="igorsilvadev" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvadev&layout=compact&show_icons=true)
