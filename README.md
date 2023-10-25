@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science and iOS developer.
+I'm a Computer Scientist and iOS developer.
 
 I work with the UIKit, SwiftUI, SpriteKit, CoreData, Combine, Realm and RxSwift frameworks. 
 I often use SnapKit and Alamofire for most of my projects. 
